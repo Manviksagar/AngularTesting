@@ -22,7 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374fe073-3415-4187-b441-73207b9a9212" name="Default Changelist" comment="All docker and compose is working" />
+    <list default="true" id="374fe073-3415-4187-b441-73207b9a9212" name="Default Changelist" comment="Angular Working Ngwebdriver">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sag/base/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sag/page/AutoPraticeSite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sag/page/GooglePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Angular/AngularNgTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Angular/Ngwebdriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MyHooks/MyHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stepdefnition/DataClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stepdefnition/Extra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stepdefnition/MyStepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stepdefnition/OutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stepdefnition/ParaSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/Testrunner.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,10 +73,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/Angular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -69,6 +85,7 @@
       <recent name="com.stepdefnition" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Va185060\IdeaProjects\AngularTesting\.idea" />
       <recent name="C:\Users\Va185060\IdeaProjects\Sele_Testing\src\test\java\Featuers" />
       <recent name="C:\Users\Va185060\IdeaProjects\Sele_Testing" />
       <recent name="C:\Users\Va185060\IdeaProjects" />
@@ -88,7 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ngwebdriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ngwebdriver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_74\jre" />
       <option name="MAIN_CLASS_NAME" value="Angular.Ngwebdriver" />
       <module name="AngularTesting" />
       <extension name="coverage">
@@ -193,16 +211,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Ngwebdriver" />
+      <item itemvalue="Application.AngularNgTest" />
       <item itemvalue="Cucumber Java.Feature: Background" />
       <item itemvalue="Cucumber Java.Feature: ParaTest" />
       <item itemvalue="JUnit.Testrunner" />
       <item itemvalue="TestNG.C:/Users/Va185060/IdeaProjects/Sele_Testing/testng.xml" />
-      <item itemvalue="Application.AngularNgTest" />
-      <item itemvalue="Application.Ngwebdriver" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ngwebdriver" />
         <item itemvalue="Application.AngularNgTest" />
         <item itemvalue="Cucumber Java.Feature: ParaTest" />
         <item itemvalue="JUnit.Testrunner" />
@@ -313,10 +330,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="All docker and compose is working" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605678108533">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1607022194370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605678108533" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607022194370" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607022305333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607022305333" />
     <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606226043064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -333,30 +354,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="551" y="281" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1606971184161" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605589123113">
+    <state x="637" y="169" key="EnvironmentVariablesDialog" timestamp="1607021606465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605589123113" />
+    <state x="637" y="169" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607021606465" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607021285345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607021285345" />
     <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1607020490801">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="332" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1607020490801" />
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1607020196968">
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1607021751052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607020196968" />
-    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1607020196968">
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607021751052" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1607021751052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607020196968" />
-    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1607020196966">
+    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607021751052" />
+    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1607021751052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607020196966" />
-    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1607020196968">
+    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607021751052" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1607021751052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607020196968" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607021751052" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606395391400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -385,6 +410,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606465493903" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1607021976948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1607021976948" />
     <state x="0" y="0" width="579" height="824" key="find.popup" timestamp="1606924239553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
