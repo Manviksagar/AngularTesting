@@ -1,0 +1,230 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8884616700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on LandingPage",
+            "match": {
+              "location": "OutTest.user_is_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1688226900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to LandingPage Page",
+            "match": {
+              "location": "OutTest.user_navigates_to_Login_Page()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 327400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MyHooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Login as a authenticated user with valid username and Password",
+        "description": "",
+        "id": "testing-back-ground-feature-for-login-feature;login-as-a-authenticated-user-with-valid-username-and-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 69900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MyHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2633103300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user enters blog.cucumber@gmail.com and Cucumber@blog",
+            "match": {
+              "arguments": [
+                {
+                  "val": "blog.cucumber@gmail.com",
+                  "offset": 12
+                },
+                {
+                  "val": "Cucumber@blog",
+                  "offset": 40
+                }
+              ],
+              "location": "OutTest.user_enters_username_and_Password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 851993600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "success message is populated",
+            "match": {
+              "location": "OutTest.success_message_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@Smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6914291700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on LandingPage",
+            "match": {
+              "location": "OutTest.user_is_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1585826400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user navigates to LandingPage Page",
+            "match": {
+              "location": "OutTest.user_navigates_to_Login_Page()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 78000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MyHooks.setUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Login as a authenticated user with valid username and Password",
+        "description": "",
+        "id": "testing-back-ground-feature-for-login-feature;login-as-a-authenticated-user-with-valid-username-and-password;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 38300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MyHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2638931000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user enters blog.cucumber@gmail.com and Cucumber@blog",
+            "match": {
+              "arguments": [
+                {
+                  "val": "blog.cucumber@gmail.com",
+                  "offset": 12
+                },
+                {
+                  "val": "Cucumber@blog",
+                  "offset": 40
+                }
+              ],
+              "location": "OutTest.user_enters_username_and_Password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 955967500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "success message is populated",
+            "match": {
+              "location": "OutTest.success_message_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Testing Back ground feature for login feature",
+    "description": "",
+    "id": "testing-back-ground-feature-for-login-feature",
+    "keyword": "Feature",
+    "uri": "Background.feature"
+  }
+]

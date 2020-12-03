@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 30.762 sec <<< FAILURE! - in TestSuite
+setup(com.sag.test.AutoPageTest)  Time elapsed: 2.204 sec  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:22:35.584Z'
+System info: host: 'WINVA185060-0WA', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+	at com.sag.test.AutoPageTest.setup(AutoPageTest.java:42)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 192.168.40.1:4444 [/192.168.40.1] failed: Connection refused: connect
+	at com.sag.test.AutoPageTest.setup(AutoPageTest.java:42)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.sag.test.AutoPageTest.setup(AutoPageTest.java:42)
+

@@ -1,0 +1,6 @@
+runner\Testrunner.class
+com\sag\test\AutoPageTest.class
+com\stepdefnition\MyStepdefs.class
+com\stepdefnition\DataClass.class
+com\stepdefnition\OutTest.class
+com\stepdefnition\Extra.class
