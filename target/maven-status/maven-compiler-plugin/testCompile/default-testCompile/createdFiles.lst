@@ -1,6 +1,9 @@
+MyHooks\MyHooks.class
 runner\Testrunner.class
-com\sag\test\AutoPageTest.class
+Angular\AngularNgTest.class
 com\stepdefnition\MyStepdefs.class
+com\stepdefnition\ParaSteps.class
 com\stepdefnition\DataClass.class
+Angular\Ngwebdriver.class
 com\stepdefnition\OutTest.class
 com\stepdefnition\Extra.class
